@@ -248,7 +248,7 @@ header{
 }
 // #service_area
 
-#news_area{
+#new_items{
 
   background-color:$gray_blue;
 
@@ -317,7 +317,7 @@ header{
 
 
 }
-// #news_area
+// #new_items
 
 
 #sub_cover{
@@ -422,7 +422,17 @@ header{
     }
     //h2
     
-  }
+    th,td {
+    padding-right: 20px;
+    
+    padding: 20px 0;
+    color: #626262;
+    font-size: 14px;
+    font-size: 1.4rem;
+    }
+    
+      
+    }
   //#main
 
 #sidebar {
